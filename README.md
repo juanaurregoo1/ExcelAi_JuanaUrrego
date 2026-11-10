@@ -15,3 +15,7 @@ Resultados
 El mes con mayores ventas fue diciembre, con $21.300.000. Los resultados muestran una tendencia general de crecimiento durante el año.
 Conclusión
 Este proyecto permitió comprender cómo Excel y la inteligencia artificial pueden trabajar juntos para facilitar el análisis de información y apoyar la toma de decisiones.
+
+
+Video proyecto ya que no pudo ser cargado ya que era mas pesado de lo permitido
+https://drive.google.com/file/d/1-O18NLdrry9mql91xQByQMAkkORJnRaM/view?usp=sharing
